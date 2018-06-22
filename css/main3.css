@@ -13974,7 +13974,7 @@ header .menu-header .main-menu ul li ul li a {
 }
 
 header .menu-header .main-menu ul li:hover,header .menu-header .main-menu ul li.active {
-    background: #ff5117
+    background: #2ecc71
 }
 
 header .menu-header .main-menu ul li:hover ul {
@@ -16027,7 +16027,7 @@ form.woocommerce-form.woocommerce-form-login.login {
 }
 
 .product-detail h4 a:hover{
-    color: #ff5117;
+    color: #2ecc71;
     transition: all .3s ease 0s;
     transition-property: all;
     transition-duration: 0.3s;
@@ -16084,7 +16084,7 @@ form.woocommerce-form.woocommerce-form-login.login {
 }
 .tag a:hover{
     color: white;
-    background-color: #ff5117;
+    background-color: #2ecc71;
     transition: all .3s ease 0s;
     transition-property: all;
     transition-duration: 0.3s;
@@ -16159,7 +16159,7 @@ form.woocommerce-form.woocommerce-form-login.login {
 
 .contact-form .form-content form #submit{
     padding: 15px 32px;
-    background-color: #ff5117;
+    background-color: #2ecc71;
     border: none;
     color: white;
     text-transform: uppercase;
@@ -16207,7 +16207,7 @@ form.woocommerce-form.woocommerce-form-login.login {
 
 
 .cat .lv1>li:hover>a{
-    color: #ff5117;
+    color: #2ecc71;
     transition: all .3s ease 0s;
     transition-property: all;
     transition-duration: 0.3s;
@@ -16246,7 +16246,7 @@ form.woocommerce-form.woocommerce-form-login.login {
 }
 
 .children li:hover a{
-    color: #ff5117;
+    color: #2ecc71;
     transition: all .3s ease 0s;
     transition-property: all;
     transition-duration: 0.3s;
@@ -16364,7 +16364,7 @@ form.woocommerce-form.woocommerce-form-login.login {
 
 .news-content .info-cat a{
     font-size: 12px;
-    color: #ff5117
+    color: #2ecc71
 }
 
 .top-footer{padding-top: 20px;}
