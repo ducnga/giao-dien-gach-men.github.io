@@ -190,7 +190,7 @@ body {
     font-weight: 400;
     line-height: 1.5;
     color: #212529;
-    background-color: #fff
+    background-color: #f1f1f1
 }
 
 [tabindex="-1"]:focus {
@@ -2670,7 +2670,7 @@ fieldset:disabled a.btn {
 
 .btn-primary:hover {
     color: #fff;
-    background-color: #FF9800;
+    background-color: #799e3f;
     border-color: #0062cc
 }
 
@@ -13566,7 +13566,7 @@ img {
 }
 
 body {
-    background: white;
+    background: #f1f1f1;
     font-size: 14px;
     font-family: Roboto, sans-serif
 }
@@ -13925,12 +13925,12 @@ header .center-header .box-search button {
     border-radius: 0;
     box-shadow: none;
     font-size: 14px;
-    background: #27ae60;
+    background: #799e3f;
     color: #fff
 }
 
 header .menu-header {
-    background:#27ae60;
+    background:#799e3f;
 }
 
 header .menu-header .menu-mobile {
@@ -13957,7 +13957,7 @@ header .menu-header .main-menu ul li ul {
     opacity: 0;
     visibility: hidden;
     background: #fff;
-    border-top: 2px solid #27ae60
+    border-top: 2px solid #799e3f
 }
 
 header .menu-header .main-menu ul li ul li {
@@ -13970,8 +13970,8 @@ header .menu-header .main-menu ul li ul li a {
     width: 100%
 }
 
-header .menu-header .main-menu ul li:hover {
-    background: #2ecc71
+header .menu-header .main-menu ul li:hover,header .menu-header .main-menu ul li.active {
+    background: #ff5117
 }
 
 header .menu-header .main-menu ul li:hover ul {
@@ -13987,7 +13987,7 @@ header .menu-header .main-menu ul li:hover ul li {
 }
 
 header .menu-header .main-menu ul li:hover ul li:hover a {
-    color: #27ae60
+    color: #799e3f
 }
 
 header .menu-header .main-menu ul li.current-menu-item>a {
@@ -14008,7 +14008,7 @@ header .menu-header .main-menu ul li.current-menu-item>a {
 #content .sidebar .category-box h3,
 #content .top-content .category-box h3 {
     font-size: 14px;
-    background: #2196F3;
+    background: #799e3f;
     text-transform: uppercase;
     padding: 12px 12px 12px 50px;
     color: #fff;
@@ -14022,7 +14022,7 @@ header .menu-header .main-menu ul li.current-menu-item>a {
     font-weight: 300!important;
     position: absolute;
     height: 100%;
-    background: #ff9800;
+    background: #799e3f;
     top: 0;
     left: 0;
     width: 40px;
@@ -14137,9 +14137,9 @@ header .menu-header .main-menu ul li.current-menu-item>a {
 
 #content .list-product ul .nav-item a.active,
 #content .tab-product ul .nav-item a.active {
-    background: #27ae60;
-    border-top: 1px solid #27ae60;
-    border-bottom: 1px solid #27ae60;
+    background: #799e3f;
+    border-top: 1px solid #799e3f;
+    border-bottom: 1px solid #799e3f;
     color: #fff
 }
 
@@ -14304,7 +14304,7 @@ header .menu-header .main-menu ul li.current-menu-item>a {
 }
 
 #content .sidebar .widget h3 {
-    background: #27ae60;
+    background: #799e3f;
     font-size: 16px;
     line-height: inherit;
     position: relative
@@ -14324,7 +14324,7 @@ header .menu-header .main-menu ul li.current-menu-item>a {
     font-weight: 300!important;
     position: absolute;
     height: 100%;
-    background: #27ae60;
+    background: #799e3f;
     top: 0;
     left: 0;
     width: 40px;
@@ -14355,7 +14355,7 @@ header .menu-header .main-menu ul li.current-menu-item>a {
 }
 
 #content .sidebar .widget .content-w.content-contact p a:hover {
-    color: #ff9800
+    color: #799e3f
 }
 
 #content .sidebar .widget .content-w ul {
@@ -14395,7 +14395,7 @@ header .menu-header .main-menu ul li.current-menu-item>a {
 }
 
 #content .sidebar .widget .content-w ul li h4 a:hover {
-    color: #ff9800
+    color: #799e3f
 }
 
 #content .child-page {
@@ -14473,7 +14473,7 @@ header .menu-header .main-menu ul li.current-menu-item>a {
 }
 
 #content .child-page .category-product .category-news .list-news h4 a:hover {
-    color: #ff9800
+    color: #799e3f
 }
 
 #content .child-page .category-product .category-news .list-news .meta {
@@ -14501,7 +14501,7 @@ header .menu-header .main-menu ul li.current-menu-item>a {
 }
 
 #content .child-page .category-product .category-news .list-news .more a:hover {
-    background: #ff9800
+    background: #799e3f
 }
 
 #content .child-page .category-product .single-news {
@@ -14541,7 +14541,7 @@ header .menu-header .main-menu ul li.current-menu-item>a {
 }
 
 #content .child-page .category-product .single-news .tags a:hover {
-    color: #FF9800
+    color: #799e3f
 }
 
 #content .child-page .category-product .rel-post h3 {
@@ -14565,7 +14565,7 @@ header .menu-header .main-menu ul li.current-menu-item>a {
     font-weight: 300!important;
     position: absolute;
     height: 100%;
-    background: #ff9800;
+    background: #799e3f;
     top: 0;
     left: 0;
     width: 40px;
@@ -14691,7 +14691,7 @@ header .menu-header .main-menu ul li.current-menu-item>a {
 
 #content .detail-product .info-product .decs-info {
     position: relative;
-    border: 1px dashed #27ae60;
+    border: 1px dashed #799e3f;
     padding: 37px 10px 10px;
     margin-bottom: 15px
 }
@@ -14702,7 +14702,7 @@ header .menu-header .main-menu ul li.current-menu-item>a {
     left: 0;
     font-size: 15px;
     color: #fff;
-    background: #27ae60;
+    background: #799e3f;
     width: 100%;
     font-weight: 400;
     padding: 7px 10px
@@ -14789,7 +14789,7 @@ header .menu-header .main-menu ul li.current-menu-item>a {
 }
 
 #content .content-post-detail .nav-pills li a.active {
-    background: #27ae60;
+    background: #799e3f;
     color: #fff
 }
 
@@ -14924,7 +14924,7 @@ footer .top-footer .sub-mail form input:-moz-placeholder {
 
 footer .top-footer .sub-mail form button {
     height: 45px;
-    background: #FF9800;
+    background: #799e3f;
     color: #fff;
     box-shadow: none;
     border-radius: 0;
@@ -14967,7 +14967,7 @@ footer .top-footer .top-social-footer ul li .fa:hover {
 footer .content-footer {
     padding-top: 50px;
     padding-bottom: 30px;
-    background: #202020;
+    background: #5e7d2d;
     color: #ededed
 }
 
@@ -15056,7 +15056,7 @@ footer .back-to-top {
 }
 
 footer .back-to-top i {
-    background: #27ae60;
+    background: #799e3f;
     padding: 5px 10px;
     color: #fff;
     font-size: 30px;
@@ -15241,7 +15241,7 @@ footer .back-to-top i {
     header .menu-header .main-menu ul li ul {
         visibility: visible;
         opacity: 1;
-        border-bottom: 1px solid #27ae60;
+        border-bottom: 1px solid #799e3f;
         border-top: 0;
         width: 100%;
         padding-left: 20px
@@ -15714,13 +15714,13 @@ article.post-content .woocommerce #respond input#submit:hover,
 article.post-content .woocommerce a.button:hover,
 article.post-content .woocommerce button.button:hover,
 article.post-content .woocommerce input.button:hover {
-    background-color: #FF9800;
+    background-color: #799e3f;
     text-decoration: none;
     background-image: none;
     color: #fff;
     border-radius: 0;
     font-weight: 400;
-    border-color: #FF9800
+    border-color: #799e3f
 }
 
 article.post-content .woocommerce #respond input#submit,
@@ -16024,7 +16024,7 @@ form.woocommerce-form.woocommerce-form-login.login {
 }
 
 .product-detail h4 a:hover{
-    color: #2ecc71;
+    color: #ff5117;
     transition: all .3s ease 0s;
     transition-property: all;
     transition-duration: 0.3s;
@@ -16051,7 +16051,7 @@ form.woocommerce-form.woocommerce-form-login.login {
 }
 
 .pagination a.active {
-    background-color: #27ae60;
+    background-color: #799e3f;
     color: white;
     border: 1px solid #4CAF50;
 }
@@ -16081,7 +16081,7 @@ form.woocommerce-form.woocommerce-form-login.login {
 }
 .tag a:hover{
     color: white;
-    background-color: #2ecc71;
+    background-color: #ff5117;
     transition: all .3s ease 0s;
     transition-property: all;
     transition-duration: 0.3s;
@@ -16156,7 +16156,7 @@ form.woocommerce-form.woocommerce-form-login.login {
 
 .contact-form .form-content form #submit{
     padding: 15px 32px;
-    background-color: #2ecc71;
+    background-color: #ff5117;
     border: none;
     color: white;
     text-transform: uppercase;
@@ -16204,7 +16204,7 @@ form.woocommerce-form.woocommerce-form-login.login {
 
 
 .cat .lv1>li:hover>a{
-    color: #2ecc71;
+    color: #ff5117;
     transition: all .3s ease 0s;
     transition-property: all;
     transition-duration: 0.3s;
@@ -16243,7 +16243,7 @@ form.woocommerce-form.woocommerce-form-login.login {
 }
 
 .children li:hover a{
-    color: #2ecc71;
+    color: #ff5117;
     transition: all .3s ease 0s;
     transition-property: all;
     transition-duration: 0.3s;
@@ -16332,7 +16332,7 @@ form.woocommerce-form.woocommerce-form-login.login {
     color: #999;
 }
 .new .view a:hover{
-    background-color: #27ae60;
+    background-color: #799e3f;
     color: white;
 }
 
@@ -16361,7 +16361,7 @@ form.woocommerce-form.woocommerce-form-login.login {
 
 .news-content .info-cat a{
     font-size: 12px;
-    color: #2ecc71
+    color: #ff5117
 }
 
  .top-footer{padding-top: 20px;}
