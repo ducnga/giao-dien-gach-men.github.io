@@ -14227,12 +14227,12 @@ header .menu-header .main-menu ul li.current-menu-item>a {
 }
 
 #content .list-product.news .list-news ul li h4 a {
-    color: #FF5117;
+    color: #2196f3;
     font-weight: 500
 }
 
 #content .list-product.news .list-news ul li h4 a:hover {
-    color: #329ef3;
+    color: #e00;
 }
 
 #content .list-product.news .list-news ul li .date {
