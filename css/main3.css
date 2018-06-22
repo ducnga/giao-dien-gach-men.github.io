@@ -13683,7 +13683,10 @@ div#___plusone_0 {
 }
 
 .detail-pro h4 a {
-    color: #333
+    color: #333;
+    height: 35px;
+    display: inline-block;
+    overflow: hidden;
 }
 
 .detail-pro h4 a:hover {
@@ -13730,8 +13733,8 @@ div#___plusone_0 {
 }
 
 .detail-pro .add-to-cart a:hover {
-    background: #2196F3;
-    border-color: #2196F3;
+    background: #799e3f;
+    border-color: #799e3f;
     color: #fff
 }
 
@@ -14075,7 +14078,7 @@ header .menu-header .main-menu ul li.current-menu-item>a {
     visibility: hidden;
     opacity: 0;
     transition: all .3s;
-    height: 100%
+    /*height: 100%*/
 }
 
 #content .sidebar .category-box .content-cat ul li ul li a:before,
@@ -16003,8 +16006,8 @@ form.woocommerce-form.woocommerce-form-login.login {
 
 .item{
    /* width: calc(100%/4);
-    float: left;*/
-    /*padding:0 7px;*/
+   float: left;*/
+   /*padding:0 7px;*/
 }
 
 
@@ -16093,7 +16096,7 @@ form.woocommerce-form.woocommerce-form-login.login {
     -o-transition: all .3s ease 0s;
 }
 
-.price{
+.textwidget .price{
     padding: 5px 10px;
     border-right: 1px solid #ccc ;
     border-left: 1px solid #ccc;
@@ -16235,11 +16238,11 @@ form.woocommerce-form.woocommerce-form-login.login {
 }
 
 .children li a:before{
-   content: "";
-   font-family: FontAwesome;
-   font-size: 18px;
-   padding-right: 9px;
-   vertical-align: -2px;
+ content: "";
+ font-family: FontAwesome;
+ font-size: 18px;
+ padding-right: 9px;
+ vertical-align: -2px;
 }
 
 .children li:hover a{
@@ -16291,7 +16294,7 @@ form.woocommerce-form.woocommerce-form-login.login {
 }
 
 .textwidget .submit:hover{
-   background-color: black;
+ background-color: black;
 }
 
 .news{
@@ -16364,5 +16367,40 @@ form.woocommerce-form.woocommerce-form-login.login {
     color: #ff5117
 }
 
- .top-footer{padding-top: 20px;}
+.top-footer{padding-top: 20px;}
 
+.information .title {
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+.information .title-1 {
+    margin: 10px 0;
+    font-weight: normal;
+}
+
+.item-info .info-title {
+    color: white;
+    text-align: center;
+    margin: 10px 0;
+    font-size: 16px;
+}
+
+.fb,.fb:hover,.fb:active,.fb:focus{
+    padding: 5px;
+    background-color: #4267b2;
+    color: white;   
+}
+
+.google,.google:hover,.google:active,.google:focus{
+    padding: 5px;
+    background-color:  #db4437;
+    color: white;
+}
+
+.tw,.tw:hover,.tw:active,.tw:focus{
+    padding: 5px;
+    background-color: #00aced;
+    color:white;
+}
